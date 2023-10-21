@@ -1,0 +1,30 @@
+﻿@model IEnumerable<dbfirstcoreproject.Models.Agalerisi>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<p>
+    <a asp-action="Create">Yeni Galeri Ekle</a>
+</p>
+<div class="container">
+    <div class="row">
+        @foreach (var item in Model)
+        {
+
+            <div class="col-4">
+                <div class="card" style="width: 18rem;">
+                    <img src="@item.Resim" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h2 class="card-title">@item.GaleriAd</h2>
+                        <p class="card-text">Galeri Ciro: @item.Ciro</p>
+                        <p class="card-text">Galeri Mal Sayısı: @item.MalSayisi</p>
+                        @Html.ActionLink("Düzenle", "Edit", new { id=item.GaleriId}) |
+                        @Html.ActionLink("Sil", "Delete", new { id=item.GaleriId})
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
