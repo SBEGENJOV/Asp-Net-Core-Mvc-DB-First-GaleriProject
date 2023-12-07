@@ -10695,11 +10695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\S_BEGENJOV\\Documents\\GitHub\\Bright_calisma\\Web Api\\ASP Net CORE\\dbfirstcoreproject\\dbfirstcoreproject\\dbfirstcoreproject.csproj",
+      "projectUniqueName": "C:\\Users\\S_BEGENJOV\\Documents\\GitHub\\Asp-Net-Core-Mvc-DB-First-GaleriProject\\dbfirstcoreproject\\dbfirstcoreproject\\dbfirstcoreproject.csproj",
       "projectName": "dbfirstcoreproject",
-      "projectPath": "C:\\Users\\S_BEGENJOV\\Documents\\GitHub\\Bright_calisma\\Web Api\\ASP Net CORE\\dbfirstcoreproject\\dbfirstcoreproject\\dbfirstcoreproject.csproj",
+      "projectPath": "C:\\Users\\S_BEGENJOV\\Documents\\GitHub\\Asp-Net-Core-Mvc-DB-First-GaleriProject\\dbfirstcoreproject\\dbfirstcoreproject\\dbfirstcoreproject.csproj",
       "packagesPath": "C:\\Users\\S_BEGENJOV\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\S_BEGENJOV\\Documents\\GitHub\\Bright_calisma\\Web Api\\ASP Net CORE\\dbfirstcoreproject\\dbfirstcoreproject\\obj\\",
+      "outputPath": "C:\\Users\\S_BEGENJOV\\Documents\\GitHub\\Asp-Net-Core-Mvc-DB-First-GaleriProject\\dbfirstcoreproject\\dbfirstcoreproject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",

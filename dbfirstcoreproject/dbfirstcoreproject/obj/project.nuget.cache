@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "51qE1jGMLkM+oMThDIghMQ3oihGIY5BqYMKwG+5GQWvR9SE0ZEFKF/WH30oNZhVr2xXBjDSoOUwQa7oOl+snig==",
+  "dgSpecHash": "PK+wpQltWDNTa/PUWXbXNDE+8/5OGY5NGY36pXo0Uu4cmSiMvxqK9ucIhfQXze3V6KaWN2tDy3XJgi/l0W85NA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\S_BEGENJOV\\Documents\\GitHub\\Bright_calisma\\Web Api\\ASP Net CORE\\dbfirstcoreproject\\dbfirstcoreproject\\dbfirstcoreproject.csproj",
+  "projectFilePath": "C:\\Users\\S_BEGENJOV\\Documents\\GitHub\\Asp-Net-Core-Mvc-DB-First-GaleriProject\\dbfirstcoreproject\\dbfirstcoreproject\\dbfirstcoreproject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\S_BEGENJOV\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\S_BEGENJOV\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
